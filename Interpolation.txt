@@ -1,0 +1,11 @@
+Spine libary for C++:
+https://github.com/ttk592/spline
+http://kluge.in-chemnitz.de/opensource/spline/
+http://people.sc.fsu.edu/~jburkardt/cpp_src/cpp_src.html
+
+C++ plottool matplot:
+http://myenigma.hatenablog.com/entry/2016/01/16/093912
+
+
+Theory Introduction
+http://luthuli.cs.uiuc.edu/~daf/courses/cs-419/Week-12/Interpolation-2013.pdf
