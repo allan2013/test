@@ -1,0 +1,4 @@
+MOZC for ubuntu 16.04
+
+sudo apt-get install fcitx-mozc
+https://hirooka.pro/?p=8373
